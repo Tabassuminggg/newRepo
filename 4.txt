@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hi there in main
 Second line in main
 Third line in main
+=======
+Good morning in Sam
+It's a beautiful day.
+Have a great day.
+>>>>>>> sam
